@@ -121,7 +121,7 @@ function *two() { .. }
 async function three() { .. }
 
 // async generator function declaration
-async function *four() { .. }
+async function* four() { .. }
 
 // named function export declaration (ES6 modules)
 export function five() { .. }
